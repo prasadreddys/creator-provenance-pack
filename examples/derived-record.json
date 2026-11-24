@@ -1,0 +1,17 @@
+{
+  "author": "Prasad Reddy",
+  "created_utc": "2026-11-24T08:00:00Z",
+  "file_name": "derived-work.txt",
+  "format": "creator-provenance/1",
+  "license": "CC-BY-4.0",
+  "origin": "human-ai",
+  "parent_sha256": "178d81017277e5cf305a8d931221d49167391362e37afd4147ca9e513d97d79d",
+  "record_sha256": "63dc81727adadbc926b5266a3339ffe369a50410247bd758a9bdd2b90b1a726b",
+  "sha256": "5b97ec2dc2c42a6f8573f7e64ff60be07134e84a83ec3329eb58e44652034c35",
+  "size_bytes": 171,
+  "statement": "Derived from sample-work.txt, remixed with AI assistance.",
+  "tools": [
+    "Muse",
+    "Claude Code"
+  ]
+}

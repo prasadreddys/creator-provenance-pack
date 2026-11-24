@@ -1,0 +1,16 @@
+{
+  "author": "Prasad Reddy",
+  "created_utc": "2026-11-24T07:30:00Z",
+  "file_name": "sample-work.txt",
+  "format": "creator-provenance/1",
+  "license": "CC-BY-4.0",
+  "origin": "human",
+  "parent_sha256": null,
+  "record_sha256": "178d81017277e5cf305a8d931221d49167391362e37afd4147ca9e513d97d79d",
+  "sha256": "d3f3dfe6d9e8d76f775b3de170f53fa7c4a0b3112ea5e2822c73e6da2fd141ba",
+  "size_bytes": 109,
+  "statement": "Sample work for the Creator Provenance Pack demo.",
+  "tools": [
+    "Muse"
+  ]
+}
